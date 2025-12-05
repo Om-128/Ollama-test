@@ -1,0 +1,7 @@
+langchain
+python-dotenv
+langchain_community
+beautifulsoup4
+langchain-text-splitters
+faiss-cpu
+streamlit
